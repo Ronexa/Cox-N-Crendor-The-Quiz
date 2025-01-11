@@ -7,11 +7,51 @@
     <style>
         body {
             background-color: rgba(206, 144, 10, 0.87);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            flex-direction: column;
+        }
+        img {
+            width: 300px; /* Set the desired width */
+            height: 300px; /* Set the desired height */
+            object-fit: scale-down; /* Ensure the image covers the area */
+            position: relative;
+        }
+        .button-container {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            margin-top: 20px; /* Add margin to separate the button from the image */
+        }
+        .button-container button {
+            margin: 0 10px; /* Add margin between buttons */
         }
     </style>
+    <script>
+        var images = ['images/jesse.PNG', 'images/brain.jpg', 'images/safa.png'];
+        var lastIndex = -1;
+
+        function changeImage() {
+            console.log(images);
+            var img = document.getElementById('displayedImage');
+            var randomIndex;
+            do {
+                randomIndex = Math.floor(Math.random() * images.length);
+            } while (randomIndex === lastIndex);
+            lastIndex = randomIndex;
+            img.src = images[randomIndex];
+        }
+    </script>
 </head>
 <body>
     <h1>Hello</h1>
-    <img src="images/jesse.PNG" alt="Description of image">
+    <img id="displayedImage" src="images/jesse.PNG" alt="Description of image">
+    <div class="button-container">
+        <button class="Jesse" onclick="changeImage()">Jesse</button>
+        <button class="Crendor" onclick="changeImage()">Crendor</button>
+    </div>
 </body>
 </html>
