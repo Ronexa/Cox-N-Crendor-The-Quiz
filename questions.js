@@ -30,10 +30,10 @@ const questions = [
         audio: "sounds/episode1x5.mp3"
     },
     {
-        question: "Who said this quote: 'I'm not a doctor, but I'm pretty sure that's not how you do it'?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode2x4.mp3"
+        question: "Who said this quote: 'Why would this communist just take a dump all over an american treat'?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 1",
+        audio: "sounds/episode1x6.mp3"
     },
     {
         question: "Who said this quote: 'I'm not a doctor, but I'm pretty sure that's not how you do it'?",
