@@ -49,8 +49,10 @@
             background-color: #2c974b; /* Change background color on hover */
         }
         .back-button {
-            margin-top: 20px;
-            padding: 15px 25px; /* Half the size of the main buttons */
+            position: absolute;
+            bottom: 425px;
+            right: 370px;
+            padding: 10px 20px; /* Half the size of the main buttons */
             font-size: 16px;
             background-color: #d73a49;
             color: white;
@@ -65,7 +67,9 @@
             background-color: #c5303e;
         }
         .next-button {
-            margin-top: 20px;
+            position: absolute;
+            bottom: 425px;
+            left: 370px;
             padding: 10px 20px; /* Smaller size */
             font-size: 14px; /* Smaller font size */
             background-color: #3498db; /* Different color */
@@ -115,10 +119,8 @@
                     <button class="Jesse" onclick="selectAnswer('Jesse')">Jesse</button>
                     <button class="Crendor" onclick="selectAnswer('Crendor')">Crendor</button>
                 </div>
-                <div class="button-container">
-                    <button class="next-button" onclick="nextQuestion()" disabled>Next</button>
-                </div>
                 <button class="back-button" onclick="goBack()">Back</button>
+                <button class="next-button" onclick="nextQuestion()" disabled>Next</button>
             `;
         }
 
