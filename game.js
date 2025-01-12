@@ -18,7 +18,10 @@ function showQuestion() {
         <div class="button-container">
             <button class="next-button" onclick="nextQuestion()" disabled>Next</button>
         </div>
-        <div class="source" id="source"></div>
+        <div class="source" id="source">
+            <button class="play-audio" id="play-audio" onclick="playAudio()">Play Audio</button>
+        </div>
+        <audio id="audio" src="${currentQuestion.audio}"></audio>
     `;
 }
 
@@ -39,7 +42,10 @@ export function selectAnswer(answer) {
     document.querySelector('.next-button').disabled = false; // Enable the Next button
 
     const sourceElement = document.getElementById('source');
-    sourceElement.textContent = `Source: ${currentQuestion.source}`;
+    sourceElement.innerHTML = `Source: ${currentQuestion.source} <button class="play-audio" id="play-audio" onclick="playAudio()">Play Audio</button>`;
+    const playAudioButton = document.querySelector('.play-audio');
+    playAudioButton.style.display = 'inline-flex';
+
 }
 
 export function nextQuestion() {
@@ -70,9 +76,15 @@ export function backToMenu() {
     `;
 }
 
+function playAudio() {
+    const audioElement = document.getElementById('audio');
+    audioElement.play();
+}
+
 // Attach functions to the window object
 window.startGame = startGame;
 window.selectAnswer = selectAnswer;
 window.nextQuestion = nextQuestion;
 window.goBack = goBack;
 window.backToMenu = backToMenu;
+window.playAudio = playAudio;

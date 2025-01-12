@@ -1,6 +1,3 @@
-iframe {
-    border: none;
-}
 body {
     background-color: #5b5a0c; /* GitHub's background color */
     display: flex;
@@ -36,6 +33,28 @@ h2 {
     margin-bottom: 20px;
     height: 40px; /* Fixed height to maintain space */
     text-align: center; /* Center the text */
+    display: flex; /* Use flexbox */
+    align-items: center; /* Vertically align items */
+    justify-content: center; /* Center items horizontally */
+}
+.play-audio {
+    margin-left: 10px; /* Add some space between the text and the button */
+    padding: 20px 20px;
+    background-color: #f1c40f; /* Yellow color */
+    color: white;
+    border: none;
+    border-radius: 50%; /* Make the button round */
+    width: 50px; /* Set fixed width */
+    height: 50px; /* Set fixed height */
+    cursor: pointer; /* Change cursor on hover */
+    display: none;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.3s; /* Add transition for hover effect */
+}
+
+.play-audio:hover {
+    background-color: #d4ac0d; /* Darker yellow on hover */
 }
 .button-container {
     display: flex;
