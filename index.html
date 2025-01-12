@@ -3,35 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cox n Crendor The Quiz</title>
+    <title>Cox n Crendor The Trivia</title>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Bebas+Neue&display=swap" rel="stylesheet">
     <style>
         body {
-            background-color: rgba(206, 144, 10, 0.87);
+            background-color: #e4e110; /* GitHub's background color */
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
             margin: 0;
             flex-direction: column;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"; /* GitHub's font */
         }
-        img {
-            width: 300px; /* Set the desired width */
-            height: 300px; /* Set the desired height */
-            object-fit: scale-down; /* Ensure the image covers the area */
-            position: relative;
+        h1 {
+            font-size: 3em;
+            margin-bottom: 40px;
+            font-family: 'Lobster', cursive; /* Fancy font */
         }
-        /* add drop shadows to the buttons */
-        .Jesse {
-            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-        }
-        .Crendor {
-            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-        }
-        .Jesse:hover {
-            box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
-        }
-        .Crendor:hover {
-            box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+        .message {
+            font-size: 2em;
+            margin-bottom: 20px;
+            height: 40px; /* Fixed height to maintain space */
         }
         .button-container {
             display: flex;
@@ -41,40 +34,125 @@
         }
         .button-container button {
             margin: 0 10px; /* Add margin between buttons */
-            padding: 10px 20px; /* Add padding for better appearance */
-            font-size: 16px; /* Increase font size */
-            background-color: #4CAF50; /* Set background color */
+            padding: 30px 50px; /* Add padding for better appearance */
+            font-size: 20px; /* GitHub's button font size */
+            background-color: #2ea44f; /* GitHub's button background color */
             color: white; /* Set text color */
-            border: none; /* Remove border */
-            border-radius: 5px; /* Add border radius */
+            border: 1px solid rgba(27, 31, 35, 0.15); /* GitHub's button border color */
+            border-radius: 6px; /* GitHub's border radius */
             cursor: pointer; /* Change cursor on hover */
             transition: background-color 0.3s; /* Add transition for hover effect */
+            font-family: 'Bebas Neue', cursive; /* Button font */
+            width: 150px; /* Set fixed width for buttons */
         }
         .button-container button:hover {
-            background-color: #45a049; /* Change background color on hover */
+            background-color: #2c974b; /* Change background color on hover */
+        }
+        .back-button {
+            margin-top: 20px;
+            padding: 15px 25px; /* Half the size of the main buttons */
+            font-size: 16px;
+            background-color: #d73a49;
+            color: white;
+            border: 1px solid rgba(27, 31, 35, 0.15);
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            font-family: 'Bebas Neue', cursive;
+            width: 75px; /* Half the width of the main buttons */
+        }
+        .back-button:hover {
+            background-color: #c5303e;
+        }
+        .next-button {
+            margin-top: 20px;
+            padding: 10px 20px; /* Smaller size */
+            font-size: 14px; /* Smaller font size */
+            background-color: #3498db; /* Different color */
+            color: white;
+            border: 1px solid rgba(27, 31, 35, 0.15);
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            font-family: 'Bebas Neue', cursive;
+            width: 75px; /* Half the width of the main buttons */
+        }
+        .next-button:hover {
+            background-color: #2980b9;
         }
     </style>
-    <script>
-        var images = ['images/jesse.png', 'images/brain.jpg', 'images/safa.png'];
-        var lastIndex = -1;
-
-        function changeImage() {
-            var img = document.getElementById('displayedImage');
-            var randomIndex;
-            do {
-                randomIndex = Math.floor(Math.random() * images.length);
-            } while (randomIndex === lastIndex);
-            lastIndex = randomIndex;
-            img.src = images[randomIndex];
-        }
-    </script>
 </head>
 <body>
-    <h1>The Menu</h1>
-    <img id="displayedImage" src="images/jesse.png" alt="Description of image">
+    <h1>Cox n Crendor The Trivia</h1>
     <div class="button-container">
-        <button class="Jesse" onclick="changeImage()">Jesse</button>
-        <button class="Crendor" onclick="changeImage()">Crendor</button>
+        <button class="Quotes" onclick="startGame()">Quotes</button>
     </div>
+    <script>
+        const questions = [
+            {
+                question: "Who said this quote: 'I love coffee!'?",
+                correctAnswer: "Jesse"
+            },
+            {
+                question: "Who said this quote: 'I hate mornings!'?",
+                correctAnswer: "Crendor"
+            }
+            // Add more questions here
+        ];
+
+        let currentQuestionIndex = 0;
+
+        function startGame() {
+            showQuestion();
+        }
+
+        function showQuestion() {
+            const currentQuestion = questions[currentQuestionIndex];
+            document.body.innerHTML = `
+                <h1>${currentQuestion.question}</h1>
+                <div class="message" id="message"></div>
+                <div class="button-container">
+                    <button class="Jesse" onclick="selectAnswer('Jesse')">Jesse</button>
+                    <button class="Crendor" onclick="selectAnswer('Crendor')">Crendor</button>
+                </div>
+                <div class="button-container">
+                    <button class="next-button" onclick="nextQuestion()" disabled>Next</button>
+                </div>
+                <button class="back-button" onclick="goBack()">Back</button>
+            `;
+        }
+
+        function selectAnswer(answer) {
+            const currentQuestion = questions[currentQuestionIndex];
+            const buttons = document.querySelectorAll('.button-container button');
+            buttons.forEach(button => button.disabled = true); // Disable buttons after selection
+
+            const messageElement = document.getElementById('message');
+            if (answer === currentQuestion.correctAnswer) {
+                document.querySelector(`button.${answer}`).style.backgroundColor = 'blue';
+                messageElement.textContent = 'Correct!';
+            } else {
+                document.querySelector(`button.${answer}`).style.backgroundColor = 'red';
+                messageElement.textContent = 'Wrong!';
+            }
+
+            document.querySelector('.next-button').disabled = false; // Enable the Next button
+        }
+
+        function nextQuestion() {
+            currentQuestionIndex = (currentQuestionIndex + 1) % questions.length;
+            showQuestion();
+        }
+
+        function goBack() {
+            document.body.innerHTML = `
+                <h1>Cox n Crendor The Trivia</h1>
+                <div class="button-container">
+                    <button class="Quotes" onclick="startGame()">Quotes</button>
+                </div>
+            `;
+            currentQuestionIndex = 0; // Reset the question index
+        }
+    </script>
 </body>
 </html>

@@ -1,0 +1,20 @@
+{
+  "name": "quiz-game",
+  "version": "1.0.0",
+  "description": "A small quiz game with options for Jesse and Crendor.",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "quiz",
+    "game",
+    "jesse",
+    "crendor"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
