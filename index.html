@@ -1,180 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cox n Crendor The Trivia</title>
     <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Bebas+Neue&display=swap" rel="stylesheet">
-    <style>
-        body {
-            background-color: #e4e110; /* GitHub's background color */
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            flex-direction: column;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"; /* GitHub's font */
-        }
-        h1 {
-            font-size: 3em;
-            margin-bottom: 40px;
-            font-family: 'Lobster', cursive; /* Fancy font */
-        }
-        .message {
-            font-size: 2em;
-            margin-bottom: 20px;
-            height: 40px; /* Fixed height to maintain space */
-        }
-        .button-container {
-            display: flex;
-            justify-content: center;
-            width: 100%;
-            margin-top: 20px; /* Add margin to separate the button from the image */
-        }
-        .button-container button {
-            margin: 0 10px; /* Add margin between buttons */
-            padding: 30px 50px; /* Add padding for better appearance */
-            font-size: 20px; /* GitHub's button font size */
-            background-color: #2ea44f; /* GitHub's button background color */
-            color: white; /* Set text color */
-            border: 1px solid rgba(27, 31, 35, 0.15); /* GitHub's button border color */
-            border-radius: 6px; /* GitHub's border radius */
-            cursor: pointer; /* Change cursor on hover */
-            transition: background-color 0.3s; /* Add transition for hover effect */
-            font-family: 'Bebas Neue', cursive; /* Button font */
-            width: 150px; /* Set fixed width for buttons */
-        }
-        .button-container button:hover {
-            background-color: #2c974b; /* Change background color on hover */
-        }
-        .back-button {
-            position: absolute;
-            bottom: 425px;
-            right: 370px;
-            padding: 10px 20px; /* Half the size of the main buttons */
-            font-size: 16px;
-            background-color: #d73a49;
-            color: white;
-            border: 1px solid rgba(27, 31, 35, 0.15);
-            border-radius: 6px;
-            cursor: pointer;
-            transition: background-color 0.3s;
-            font-family: 'Bebas Neue', cursive;
-            width: 75px; /* Half the width of the main buttons */
-        }
-        .back-button:hover {
-            background-color: #c5303e;
-        }
-        .next-button {
-            position: absolute;
-            bottom: 425px;
-            left: 370px;
-            padding: 10px 20px; /* Smaller size */
-            font-size: 14px; /* Smaller font size */
-            background-color: #3498db; /* Different color */
-            color: white;
-            border: 1px solid rgba(27, 31, 35, 0.15);
-            border-radius: 6px;
-            cursor: pointer;
-            transition: background-color 0.3s;
-            font-family: 'Bebas Neue', cursive;
-            width: 75px; /* Half the width of the main buttons */
-        }
-        .next-button:hover {
-            background-color: #2980b9;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
+
 </head>
+
 <body>
-    <h1>Cox n Crendor The Trivia</h1>
-    <div class="button-container">
-        <button class="Quotes" onclick="startGame()">Quotes</button>
+    <div id="screen" >
+        <div class="button-container">
+            <button class="Quotes" onclick="startGame()">Quotes</button>
+        </div>
     </div>
-    <script>
-        const questions = [
-            {
-                question: "Who said this quote: 'I love coffee!'?",
-                correctAnswer: "Jesse",
-                source: "Cox n Crendor Podcast Episode 1"
-            },
-            {
-                question: "Who said this quote: 'I hate mornings!'?",
-                correctAnswer: "Crendor",
-                source: "Cox n Crendor Podcast Episode 2"
-            }
-            // Add more questions here
-        ];
-    
-        let currentQuestionIndex = 0;
-    
-        function startGame() {
-            showQuestion();
-        }
-    
-        function showQuestion() {
-            const currentQuestion = questions[currentQuestionIndex];
-            document.body.innerHTML = `
-                <h1>${currentQuestion.question}</h1>
-                <div class="message" id="message"></div>
-                <div class="button-container">
-                    <button class="Jesse" onclick="selectAnswer('Jesse')">Jesse</button>
-                    <button class="Crendor" onclick="selectAnswer('Crendor')">Crendor</button>
-                </div>
-                <button class="back-button" onclick="goBack()">Back</button>
-                <button class="next-button" onclick="nextQuestion()" disabled>Next</button>
-                <div class="source" id="source"></div>
-            `;
-        }
-    
-        function selectAnswer(answer) {
-            const currentQuestion = questions[currentQuestionIndex];
-            const buttons = document.querySelectorAll('.button-container button');
-            buttons.forEach(button => button.disabled = true); // Disable buttons after selection
-    
-            const messageElement = document.getElementById('message');
-            if (answer === currentQuestion.correctAnswer) {
-                document.querySelector(`button.${answer}`).style.backgroundColor = 'blue';
-                messageElement.textContent = 'Correct!';
-            } else {
-                document.querySelector(`button.${answer}`).style.backgroundColor = 'red';
-                messageElement.textContent = 'Wrong!';
-            }
-    
-            document.querySelector('.next-button').disabled = false; // Enable the Next button
-    
-            const sourceElement = document.getElementById('source');
-            sourceElement.textContent = `Source: ${currentQuestion.source}`;
-        }
-    
-        function nextQuestion() {
-            if (currentQuestionIndex < questions.length - 1) {
-                currentQuestionIndex++;
-                showQuestion();
-            } else {
-                document.body.innerHTML = `
-                    <h1>End of the quiz!</h1>
-                    <button class="back-to-menu-button" onclick="backToMenu()" style="background-color: red; color: white;">Back to Menu</button>
-                `;
-            }
-        }
-    
-        function goBack() {
-            if (currentQuestionIndex > 0) {
-                currentQuestionIndex--;
-                showQuestion();
-            }
-        }
-    
-        function backToMenu() {
-            currentQuestionIndex = 0;
-            document.body.innerHTML = `
-                <h1>Cox n Crendor The Trivia</h1>
-                <div class="button-container">
-                    <button class="Quotes" onclick="startGame()">Quotes</button>
-                </div>
-            `;
-        }
-    </script>
+    <button class="back-button" onclick="backToMenu()">Back</button>
+
+    <script src="game.js"></script>
 </body>
+
 </html>
