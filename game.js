@@ -3,7 +3,15 @@ import questions from './questions.js';
 let currentQuestionIndex = 0;
 
 export function startGame() {
+    shuffleQuestions();
     showQuestion();
+}
+
+function shuffleQuestions() {
+    for (let i = questions.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [questions[i], questions[j]] = [questions[j], questions[i]];
+    }
 }
 
 function showQuestion() {

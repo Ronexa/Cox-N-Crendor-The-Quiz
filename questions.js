@@ -36,22 +36,94 @@ const questions = [
         audio: "sounds/episode1x6.mp3"
     },
     {
-        question: "Who said this quote: 'I'm not a doctor, but I'm pretty sure that's not how you do it'?",
-        correctAnswer: "Jesse",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode2x5.mp3"
+        question: "Who said this quote: 'Some people have goals to climb mount everest some have goals to move up the job ladder my goal is to go to pink berry its not going to be easy tho but i think i can do it'?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 1",
+        audio: "sounds/episode1x7.mp3"
     },
     {
-        question: "Who said this quote: 'I'm not a doctor, but I'm pretty sure that's not how you do it'?",
+        question: "Who said this quote: 'I think one day we'll just hit a point where we'll get so professional that our level of professinalism will be equal to someone just starting out in professional radio'?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode2x6.mp3"
+        audio: "sounds/episode2x1.mp3"
     },
     {
-        question: "Who said this quote: 'I'm not a doctor, but I'm pretty sure that's not how you do it'?",
+        question: "Who said this quote: 'Welcome to the Grammar Cast my name is Horatio Bottomlip'?",
         correctAnswer: "Jesse",
         source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode2x7.mp3"
+        audio: "sounds/episode2x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
     },
     
     // Add more questions here
