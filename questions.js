@@ -54,70 +54,70 @@ const questions = [
         audio: "sounds/episode2x2.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
-        correctAnswer: "Crendor",
+        question: "Who said this quote: 'So Jann hows that botched liposuction going'?",
+        correctAnswer: "Jesse",
         source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        audio: "sounds/episode2x3.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
-        correctAnswer: "Crendor",
+        question: "Who said this quote: 'As about as good as your nosejob you whore'?",
+        correctAnswer: "Jesse",
         source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        audio: "sounds/episode2x4.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
-        correctAnswer: "Crendor",
+        question: "Who said this quote: 'I dont understand how those whores became so famous'?",
+        correctAnswer: "Jesse",
         source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        audio: "sounds/episode2x5.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
-        correctAnswer: "Crendor",
+        question: "Who said this quote: 'Look at the ass of the black haired one ooooh im gonna get it'?",
+        correctAnswer: "Jesse",
         source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        audio: "sounds/episode2x6.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
-        correctAnswer: "Crendor",
+        question: "Who said this quote: 'You havent been funny for 40 years'?",
+        correctAnswer: "Jesse",
         source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        audio: "sounds/episode2x7.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
-        correctAnswer: "Crendor",
+        question: "Who said this quote: 'Go for a day put on a smile do your thing let uncle Mark rub upon you if thats what hes gotta do let him get drunk, get drunk with unlce Mark who cares? the kids wont care they wont remember it give them some brandy theyll forget it '?",
+        correctAnswer: "Jesse",
         source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        audio: "sounds/episode2x8.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'In the post-apocalypse the buttefly cheese would be a delicacy '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 3",
+        audio: "sounds/episode3x1.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Glaciers are growing and its all Obamas fault '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 3",
+        audio: "sounds/episode3x2.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'No wonder Obama cares because hes a Kenyan '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 3",
+        audio: "sounds/episode3x3.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
+        question: "Who said this quote: 'Welcome to our racist podcast'?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 3",
+        audio: "sounds/episode3x4.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Dont you undestand if we use more than one square of toiletpaper the world will die '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 3",
+        audio: "sounds/episode3x5.mp3"
     },
     {
         question: "Who said this quote: 'I think one day we'll '?",
