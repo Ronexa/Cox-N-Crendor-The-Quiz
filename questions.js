@@ -120,11 +120,92 @@ const questions = [
         audio: "sounds/episode3x5.mp3"
     },
     {
+        question: "Who said this quote: 'I aint just sugared I pre-sugared '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 3",
+        audio: "sounds/episode3x6.mp3"
+    },
+    {
+        question: "Who said this quote: 'I will punch a mother of three in the face to get one of those '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 4",
+        audio: "sounds/episode4x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'Its just bad news youre just not getting older youre getting dumber '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 4",
+        audio: "sounds/episode4x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'Rich entrepreneurs like Mark Cuban, if you want to invest in our candle we will gladly accept  '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5",
+        audio: "sounds/episode5x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'You know what, im not a fan of great deals '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5",
+        audio: "sounds/episode5x2.mp3"
+    },
+    {
         question: "Who said this quote: 'I think one day we'll '?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 2",
         audio: "sounds/episode1x1.mp3"
     },
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    
+
+
+
+
+
+
+
+
     
     // Add more questions here
 ];
