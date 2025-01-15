@@ -204,46 +204,46 @@ const questions = [
         audio: "sounds/episode6x3.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Kim Jong-il is dead so he could technically have gone to a glue factory '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 7",
+        audio: "sounds/episode7x1.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
+        question: "Who said this quote: 'Ive always wanted to depress people with my life '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 7",
+        audio: "sounds/episode7x2.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'The only science i accept is the kind where its like good science like 'yeah in order to like get laid do this' good job scientist youve done it  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 7",
+        audio: "sounds/episode7x3.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Im gettin to Gran Torino levels of just like bitter and angry like i just wanna sit on my porch and do the gun finger thing to people who walk by'?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 7",
+        audio: "sounds/episode7x4.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'So if anything im curing myself of diseases everyday, i wake up get a nice glass of water that is instat disease curefication'?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 7",
+        audio: "sounds/episode7x5.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'The Yahoo level of smart person is propably someone who is not very smart '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 7",
+        audio: "sounds/episode7x6.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'What kind of assholes writes these articles? this is what happens when youre english major and you have nothing better to do than work for Yahoo'?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 8",
+        audio: "sounds/episode8x1.mp3"
     },
     {
         question: "Who said this quote: 'I think one day we'll '?",
