@@ -150,6 +150,60 @@ const questions = [
         audio: "sounds/episode5x2.mp3"
     },
     {
+        question: "Who said this quote: 'Listen, were not here for toys and were not here to make you happy '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5",
+        audio: "sounds/episode5x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'At some point in your life you get to the point where youre so beaten down in your life, you know what just kill me. it explains why men die much earlier than women. cos eventually youre 'just take me, take me lord' '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 5",
+        audio: "sounds/episode5x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'These scientists should call their dear frend Darwin and ask him whats up, cos thats what that is'?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 5",
+        audio: "sounds/episode5x5.mp3"
+    },
+    {
+        question: "Who said this quote: 'Theres a lot of people who propably have ginormous brains who are just idiots'?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 5",
+        audio: "sounds/episode5x6.mp3"
+    },
+    {
+        question: "Who said this quote: 'If anything McDonalds is making you smarter'?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 5",
+        audio: "sounds/episode5x7.mp3"
+    },
+    {
+        question: "Who said this quote: 'We can go into the surprising causes of erectile dysfunction if you want '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5",
+        audio: "sounds/episode5x8.mp3"
+    },
+    {
+        question: "Who said this quote: 'I wish all lips were made of honey'?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 6",
+        audio: "sounds/episode6x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'Honeys antiviral aint no HIV up in here '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 6",
+        audio: "sounds/episode6x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'Im gonna wear one across my nose so it looks like im always been in a fight, and women be like 'damn he can protect me' little do they know in any fight i will leave them there ill be like 'TAKE THE WOMAN''?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 6",
+        audio: "sounds/episode6x3.mp3"
+    },
+    {
         question: "Who said this quote: 'I think one day we'll '?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 2",
