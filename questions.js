@@ -246,12 +246,47 @@ const questions = [
         audio: "sounds/episode8x1.mp3"
     },
     {
+        question: "Who said this quote: 'Just cos a woman is on her period doesnt mean shes like 'ive gotta find the most immune man possible'  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 8",
+        audio: "sounds/episode8x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'I just look up things that favor my life and i read them and feel happy'?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 8",
+        audio: "sounds/episode8x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'If you get stabbed while youre holding a gun you are bad at crime '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 9",
+        audio: "sounds/episode9x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I now understand what it must feel like to have been a black kid in the 90s when the white kids start to stealing all your cool slang  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 9",
+        audio: "sounds/episode9x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'We're gonna value add some leverage to your viral video it is what it is '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 9",
+        audio: "sounds/episode9x3.mp3"
+    },
+    {
         question: "Who said this quote: 'I think one day we'll '?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 2",
         audio: "sounds/episode1x1.mp3"
     },
-    
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
 
 
 
