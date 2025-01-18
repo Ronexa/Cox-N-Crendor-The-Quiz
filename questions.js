@@ -276,6 +276,60 @@ const questions = [
         audio: "sounds/episode9x3.mp3"
     },
     {
+        question: "Who said this quote: 'Ladies you stink when youre stressed '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 10",
+        audio: "sounds/episode10x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'If you work out youre relieving and the sweat is what you are expelling, right? and so if youre stressing the sweat is the exact same thing like getting the stress out of you its oiling you up for a day of no stress '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 10",
+        audio: "sounds/episode10x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'Stress is a natural lubricant'?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 10",
+        audio: "sounds/episode10x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'Mega Deathstorm the 4th coming in on thursday tune in to see all the destruction '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 10",
+        audio: "sounds/episode10x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'If ignorance was power this country would be self sustaining '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 10",
+        audio: "sounds/episode10x5.mp3"
+    },
+    {
+        question: "Who said this quote: 'I dont know the deets all i know is thats what i heard and i heard what i heard '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 10",
+        audio: "sounds/episode10x6.mp3"
+    },
+    {
+        question: "Who said this quote: 'It started out i was joyous and filled with love and now this guy ruined it this guy single handedly ruined it for me '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 10",
+        audio: "sounds/episode10x7.mp3"
+    },
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I think one day we'll '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
         question: "Who said this quote: 'I think one day we'll '?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 2",
