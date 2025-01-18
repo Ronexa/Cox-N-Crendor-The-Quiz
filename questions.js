@@ -84,7 +84,7 @@ const questions = [
         audio: "sounds/episode2x7.mp3"
     },
     {
-        question: "Who said this quote: 'Go for a day put on a smile do your thing let uncle Mark rub upon you if thats what hes gotta do let him get drunk, get drunk with unlce Mark who cares? the kids wont care they wont remember it give them some brandy theyll forget it '?",
+        question: "Who said this quote: 'Go for a day put on a smile do your thing let uncle Mark rub upon you if thats what hes gotta do let him get drunk, get drunk with uncle Mark who cares? the kids wont care they wont remember it give them some brandy theyll forget it '?",
         correctAnswer: "Jesse",
         source: "Cox n Crendor Podcast Episode 2",
         audio: "sounds/episode2x8.mp3"
@@ -318,25 +318,97 @@ const questions = [
         audio: "sounds/episode10x7.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
+        question: "Who said this quote: 'The only racism we have in America is the passive aggressive kind '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 11",
+        audio: "sounds/episode11x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'We're racist but we dont talk about it'?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 11",
+        audio: "sounds/episode11x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'Can you Tokyo Drift across healthy curves '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 11",
+        audio: "sounds/episode11x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'Im gonna make a diet book call Tokyo Drifting to healthy curves '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 11",
+        audio: "sounds/episode11x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'Science your mission: destroy the sun, then everyone would be really thin '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 11",
+        audio: "sounds/episode11x5.mp3"
+    },
+    {
+        question: "Who said this quote: 'Youre just like 'Hey you better not touch that red button' and youre like 'I wanna touch the red button' '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 11",
+        audio: "sounds/episode11x6.mp3"
+    },
+    {
+        question: "Who said this quote: 'Thats what you need to do to your kids: mess with their minds, any good parent messes with their childs mind '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 11",
+        audio: "sounds/episode11x7.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 2",
         audio: "sounds/episode1x1.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
+        question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 2",
         audio: "sounds/episode1x1.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
+        question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 2",
         audio: "sounds/episode1x1.mp3"
     },
     {
-        question: "Who said this quote: 'I think one day we'll '?",
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 2",
         audio: "sounds/episode1x1.mp3"
