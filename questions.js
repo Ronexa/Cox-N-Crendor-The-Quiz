@@ -451,27 +451,75 @@ const questions = [
     },
     {
         question: "Who said this quote: 'I want our first space adventure: when humans go out in space and we introduce us to the other species we say 'we're humans, we make it worse'  '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 15",
+        audio: "sounds/episode15x2.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Tip number 1: silently stare at the lady, gentlemen, theyll love it '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 15",
+        audio: "sounds/episode15x3.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Im gonna go to a bar tomorrow night and just stare at women when they walk in '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 15",
+        audio: "sounds/episode15x4.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'They propably dont want you to be like overwhelmed with body hair like a 40 year old Italian man '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 15",
+        audio: "sounds/episode15x5.mp3"
+    },
+    {
+        question: "Who said this quote: 'Our entire audience is spaghetti eating 40 year old italian men who love cloned hamburger meat '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 15",
+        audio: "sounds/episode15x6.mp3"
+    },
+    {
+        question: "Who said this quote: 'Independent parties and all the other parties are like the Cleveland Browns and the Kansas City Chiefs  '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 15",
+        audio: "sounds/episode15x7.mp3"
+    },
+    {
+        question: "Who said this quote: 'Well well well if it isnt the asians '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 16",
+        audio: "sounds/episode16x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'Dental hygine and murder thats me '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 16",
+        audio: "sounds/episode16x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'They thought beign a kindergarten teacher was a little like too hands off '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 16",
+        audio: "sounds/episode16x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'Gandalf isnt real '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 17",
+        audio: "sounds/episode17x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I used to be delicious now im played out '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 17",
+        audio: "sounds/episode17x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'You know whos fault this is? Obama. We dont even have real turkeys in America anymore '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 17",
+        audio: "sounds/episode17x3.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
