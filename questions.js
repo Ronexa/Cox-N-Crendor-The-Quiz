@@ -360,25 +360,97 @@ const questions = [
         audio: "sounds/episode11x7.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Rather than the Macy's Thanksgiving Day Parade having a big fat santa in a red outfit just parade 13 homeless guys down the road each of them older and crazier than the next '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 12",
+        audio: "sounds/episode12x1.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Youre like Santa Claus youre like our Santa Claus youre also like Sinterklaas and that you keep young boys in black face around and youre a Yule Lad cos youre disheveled and maybe homeless '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 12",
+        audio: "sounds/episode12x2.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'Ben Roethlisberger is like 'ummm my penis just falls out of my pants when im around ladies i dunno why' '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 12",
+        audio: "sounds/episode12x3.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'If a woman ever says to you 'I dont care' or 'It doesnt matter' or 'Im ok with it' buy her flowers '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 12",
+        audio: "sounds/episode12x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'Look im just saying: parents get your kid a prostitue, is what im saying  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 12",
+        audio: "sounds/episode12x5.mp3"
+    },
+    {
+        question: "Who said this quote: 'God youre such a failure, let me hire you another prostitute '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 12",
+        audio: "sounds/episode12x6.mp3"
+    },
+    {
+        question: "Who said this quote: 'I cheated sometimes and i turned out fine '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 12",
+        audio: "sounds/episode12x7.mp3"
+    },
+    {
+        question: "Who said this quote: 'My time certainly has a giant penis '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 13",
+        audio: "sounds/episode13x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I feel im like the Yin and Yang of humanity '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 13",
+        audio: "sounds/episode13x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'I dont want to make friends anyway because you made the Vita and it sucks '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 13",
+        audio: "sounds/episode13x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'Thats not bad, thats not a bad deal they can be an asshole to me for 25,5 '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 14",
+        audio: "sounds/episode14x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'Jeff would call us 'Chubby boner' '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 14",
+        audio: "sounds/episode14x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'I had sex with over 44 men Jerry '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 14",
+        audio: "sounds/episode14x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'Dead people dont need refrigerators get it from grandma  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 14",
+        audio: "sounds/episode14x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'We can clone some cows and feed it to people just not tell them theyre cloned cows no one cares  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 15",
+        audio: "sounds/episode15x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I want our first space adventure: when humans go out in space and we introduce us to the other species we say 'we're humans, we make it worse'  '?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 2",
         audio: "sounds/episode1x1.mp3"
