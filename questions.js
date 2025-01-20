@@ -522,6 +522,60 @@ const questions = [
         audio: "sounds/episode17x3.mp3"
     },
     {
+        question: "Who said this quote: 'Why dont you regain your sense of wonder douchebags '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 18",
+        audio: "sounds/episode18x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'We should design a surgical procedure in order to transform Andy Serkis into Gollum permanently '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 18",
+        audio: "sounds/episode18x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'Did you know that only stupid people claim to be abducted by aliens because the aliens keep the smart ones '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 18",
+        audio: "sounds/episode18x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'George i done went out in the fields looking for Bigfoot, then i got abducted by the aliens '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 18",
+        audio: "sounds/episode18x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'Its like Bigfeet are the alien dogs  '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 18",
+        audio: "sounds/episode18x5.mp3"
+    },
+    {
+        question: "Who said this quote: 'Now that all these soccer moms are dressing up like S&M hoes now i have to do something even more kinky, im gonna dress up like a soccer mom  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 18",
+        audio: "sounds/episode18x6.mp3"
+    },
+    {
+        question: "Who said this quote: 'And if you do it youve chosen to do it and if you dont do it its because youve chosen not to do it  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 18",
+        audio: "sounds/episode18x7.mp3"
+    },
+    {
+        question: "Who said this quote: 'I have a very close relationship with my Ninja Turtles '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 18",
+        audio: "sounds/episode18x8.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 2",
