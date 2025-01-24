@@ -10,7 +10,7 @@ const questions = [
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 1",
         audio: "sounds/episode1x2.mp3"
-    },  
+    },
     {
         question: "Who said this quote: 'Idiots dont eat treebark well unless they deepfry it that might be delicious'?",
         correctAnswer: "Jesse",
@@ -570,6 +570,139 @@ const questions = [
         audio: "sounds/episode18x8.mp3"
     },
     {
+        question: "Who said this quote: 'You are a dream killer '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 19",
+        audio: "sounds/episode19x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'Barack Obama i bet in his name it spells robot somewhere without a T '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 19",
+        audio: "sounds/episode19x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'Pretty much was like: hey what if we like got some crappy meat and like diseased chickens and kinda just like smashed it all into something like fatty salty deepfried thing '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 19",
+        audio: "sounds/episode19x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'Nothing makes me more hungry than hearing the words: stainless steel, cryogenics and flash freezing when talking about a meat by-product  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 19",
+        audio: "sounds/episode19x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'I taught my kid how to stich pig skins so that when we're down there they know how to survive  '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 20",
+        audio: "sounds/episode20x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'Im not crazy enough to think about monkey outbreaks thats stupid '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 20",
+        audio: "sounds/episode20x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'To be or not to be is the question we ask ourselves daily yet, do we signify ourselves the way we think? that is the true question '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 20",
+        audio: "sounds/episode20x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'Look im not seeing anyone leave it alone grandma '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 20",
+        audio: "sounds/episode20x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'I am happy you old bird now get in the kitchen and make me cookies goddamnit '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 20",
+        audio: "sounds/episode20x5.mp3"
+    },
+    {
+        question: "Who said this quote: 'Parents job is to be in your face constantly, drive you crazy and make you want to leave the house so they can get the house back that they had to give you for 18 years '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 20",
+        audio: "sounds/episode20x6.mp3"
+    },
+    {
+        question: "Who said this quote: 'Your parents arent always right, you stupid idiots '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 20",
+        audio: "sounds/episode20x7.mp3"
+    },
+    {
+        question: "Who said this quote: 'I know which part of me is at 18....... inches '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 20",
+        audio: "sounds/episode20x8.mp3"
+    },
+    {
+        question: "Who said this quote: 'You just have to be abusive with vegetables and thats how you solve all of lifes problems '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 21",
+        audio: "sounds/episode21x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'We like to beg ooh we like to beg ooh we like to beg cos we got on one leg, that dont make sense, how about our knees? we are very very eager to please '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 21",
+        audio: "sounds/episode21x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'Are they trying to tell us that the only way to stop the Mayan Robots is to squeeze boobs  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 21",
+        audio: "sounds/episode21x3.mp3"
+    },
+
+    {
+        question: "Who said this quote: 'Mother Natures gonna not even know what happened, she'll be like: 'Whos been squeezing so many brests?' and when we stand proudly and say WE HAVE! she'll know, she was defeated'?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 21",
+        audio: "sounds/episode21x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'In her honor i will gladly rub the breasts of many women listening to Informer '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 21",
+        audio: "sounds/episode21x5.mp3"
+    },
+    {
+        question: "Who said this quote: 'No wonder it sounds like fapping cos technically its like brain fapping '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 21",
+        audio: "sounds/episode21x6.mp3"
+    },
+    {
+        question: "Who said this quote: 'Hows that strawberrysack going '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 21",
+        audio: "sounds/episode21x7.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 2",
@@ -595,7 +728,8 @@ const questions = [
 
 
 
-    
+
+
     // Add more questions here
 ];
 
