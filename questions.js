@@ -685,6 +685,60 @@ const questions = [
         audio: "sounds/episode21x7.mp3"
     },
     {
+        question: "Who said this quote: 'Oh no I didnt squeeze enough boobs! '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 22",
+        audio: "sounds/episode22x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'Because crazy people will always continue to be crazy thats the thing  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 22",
+        audio: "sounds/episode22x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'I dont care if you belive or not because im 15 years old and im gonna have a baby '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 22",
+        audio: "sounds/episode22x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'Once you realise that your goal going throught the illusive forest, through this dark forest of mysterie you found comfort in knowing that what you want out of life is womens holes '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 22",
+        audio: "sounds/episode22x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'Ok everyone, remember to breathe because breathing is going to help you live ok? beathing is going to help you live '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 22",
+        audio: "sounds/episode22x5.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 2",
@@ -720,6 +774,31 @@ const questions = [
         source: "Cox n Crendor Podcast Episode 2",
         audio: "sounds/episode1x1.mp3"
     },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+
 
 
 
