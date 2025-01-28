@@ -715,46 +715,46 @@ const questions = [
         audio: "sounds/episode22x5.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'We are the loud shrieking of the internet'?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 23",
+        audio: "sounds/episode23x1.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Musical is for vaginas '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 23",
+        audio: "sounds/episode23x2.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'I think i found out that im a casual racist '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 23",
+        audio: "sounds/episode23x3.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'I dont care about your family Heisenberg, you get your shit back on the streets and you deal drugs '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 23",
+        audio: "sounds/episode23x4.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'And i was like: 'should i get a McRib?' and i was like: 'propably not' and then i went and got one '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 23",
+        audio: "sounds/episode23x5.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'This year is the year when aliens will land and Obama will be proclaimed as the anti-christ '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 23",
+        audio: "sounds/episode23x6.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'This year we finally invade Iran and then nuclear war takes place and the Devil comes and kills us '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 23",
+        audio: "sounds/episode23x7.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
