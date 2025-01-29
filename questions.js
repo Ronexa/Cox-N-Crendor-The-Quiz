@@ -757,22 +757,22 @@ const questions = [
         audio: "sounds/episode23x7.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Oh government you are a mockery '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 24",
+        audio: "sounds/episode24x1.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'For a minute I almost belived something existed until I started reading it '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 24",
+        audio: "sounds/episode24x2.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'China, why dont you get work on making it a english sweatshop '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 24",
+        audio: "sounds/episode24x3.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
