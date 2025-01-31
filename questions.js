@@ -775,6 +775,66 @@ const questions = [
         audio: "sounds/episode24x3.mp3"
     },
     {
+        question: "Who said this quote: 'How about you have a cup of shut the F up '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 25",
+        audio: "sounds/episode25x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'Theres nothing more pathetic than two men discussing the power of girlfriends '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 25",
+        audio: "sounds/episode25x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'Im going to the GYM today you wanna go? 'Im really tired' 'Ehh youre gonna get a big butt' 'Fine Danielle ill go' '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 25",
+        audio: "sounds/episode25x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'It was like dreams within dreams that are beign had in somebody elses head thats having dreams within dreams thats having a dream of someone elses dream  '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 25",
+        audio: "sounds/episode25x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 2",
