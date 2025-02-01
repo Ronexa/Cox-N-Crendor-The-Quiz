@@ -799,52 +799,52 @@ const questions = [
         audio: "sounds/episode25x4.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'And your secret decoder ring says: cocaine is a hell of a drug '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 26",
+        audio: "sounds/episode26x1.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'Billy-Bob Ray Johnson i thought i told you to stay off the tweeter '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 26",
+        audio: "sounds/episode26x2.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'MTV is like a scholarly university  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 26",
+        audio: "sounds/episode26x3.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'Oh my, it appears that your calculus is showing '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 26",
+        audio: "sounds/episode26x4.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Its simple economics, you get what you want so how about a little pinch and squeal? hmmmm? '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 26",
+        audio: "sounds/episode26x5.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Find someone else to drive your ass to the salon you dumb hoe '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 26",
+        audio: "sounds/episode26x6.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'I remember when my power went out for 3 days and when it came back on i hugged my computer'?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 26",
+        audio: "sounds/episode26x7.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'Why are you friend zoning me Swiss Miss '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 26",
+        audio: "sounds/episode26x8.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
