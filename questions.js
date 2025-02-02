@@ -847,6 +847,78 @@ const questions = [
         audio: "sounds/episode26x8.mp3"
     },
     {
+        question: "Who said this quote: 'My name is Archibald Crucible and im your dream host '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 27",
+        audio: "sounds/episode27x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'My name is Imaginary Thought Walrus '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 27",
+        audio: "sounds/episode27x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'I had a dream that an alien leprechaun came and poked my butthole with a banana, what does that mean?  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 27",
+        audio: "sounds/episode27x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'Why cant there just be like a number thats like my phone number and they call me up and im like 'look i know your life is boring, how about that crazy kinky sex you should be having?' '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 27",
+        audio: "sounds/episode27x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'If theres one thing im good at its making crafts '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 28",
+        audio: "sounds/episode28x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'Im so used to fake food that real food messes with my body '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 28",
+        audio: "sounds/episode28x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'RG4 does not understand the appeal of a banana hitting a fellow human being in the face '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 28",
+        audio: "sounds/episode28x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'My goal is to discover what this feeling of laughter and happiness is like '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 28",
+        audio: "sounds/episode28x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 2",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 2",
