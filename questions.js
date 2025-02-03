@@ -895,39 +895,111 @@ const questions = [
         audio: "sounds/episode28x4.mp3"
     },
     {
+        question: "Who said this quote: 'I cant swallow it whole or my poops will come out too hard '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 29",
+        audio: "sounds/episode29x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'Im pretty sure all these dreams are gonna meld together into like a feature film one day when im a director  '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 30",
+        audio: "sounds/episode30x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'Dragons dont exist any more because knights of old killed them '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 30",
+        audio: "sounds/episode30x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'Today i had a nice poo and then i had breakfast '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 30",
+        audio: "sounds/episode30x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'If i dont have the internet im propably panicing and then like sitting in the corner like hyperventilating '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 30",
+        audio: "sounds/episode30x4.mp3"
+    },
+    {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
+        source: "Cox n Crendor Podcast Episode 3",
         audio: "sounds/episode1x1.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
+        source: "Cox n Crendor Podcast Episode 3",
         audio: "sounds/episode1x1.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
+        source: "Cox n Crendor Podcast Episode 3",
         audio: "sounds/episode1x1.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
+        source: "Cox n Crendor Podcast Episode 3",
         audio: "sounds/episode1x1.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
+        source: "Cox n Crendor Podcast Episode 3",
         audio: "sounds/episode1x1.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 2",
+        source: "Cox n Crendor Podcast Episode 3",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 3",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 3",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 3",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 3",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 3",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 3",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 3",
         audio: "sounds/episode1x1.mp3"
     },
 
