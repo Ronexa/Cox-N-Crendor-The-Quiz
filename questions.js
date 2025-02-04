@@ -925,40 +925,40 @@ const questions = [
         audio: "sounds/episode30x4.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 3",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Sticks and stones hurt dick '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 31",
+        audio: "sounds/episode31x1.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 3",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'How come every snack cake sounds like a metaphor for your dick  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 31",
+        audio: "sounds/episode31x2.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'George, how come all the snack foods sound like a penis '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 3",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 31",
+        audio: "sounds/episode31x3.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 3",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'The Bible always said the world would end with giant president heads and sasquatch  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 31",
+        audio: "sounds/episode31x4.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 3",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'What do i look like that rich bastard Barack Obama '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 31",
+        audio: "sounds/episode31x5.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'Back in my day we paid a nickel and we got 15 jars of mayonnaise  and a cup of coffee  '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 3",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 31",
+        audio: "sounds/episode31x6.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
