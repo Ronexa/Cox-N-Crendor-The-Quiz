@@ -961,22 +961,22 @@ const questions = [
         audio: "sounds/episode31x6.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 3",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Why wont anyone help me get these slinkies of my sleeves '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 32",
+        audio: "sounds/episode32x1.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'Time well wasted is not wasted at all '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 3",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 33",
+        audio: "sounds/episode32x3.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 3",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'We should kickstart a Death Star '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 33",
+        audio: "sounds/episode32x2.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
