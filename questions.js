@@ -373,7 +373,7 @@ const questions = [
     },
     {
         question: "Who said this quote: 'Ben Roethlisberger is like 'ummm my penis just falls out of my pants when im around ladies i dunno why' '?",
-        correctAnswer: "Crendor",
+        correctAnswer: "Jesse",
         source: "Cox n Crendor Podcast Episode 12",
         audio: "sounds/episode12x3.mp3"
     },
@@ -709,7 +709,7 @@ const questions = [
         audio: "sounds/episode22x4.mp3"
     },
     {
-        question: "Who said this quote: 'Ok everyone, remember to breathe because breathing is going to help you live ok? beathing is going to help you live '?",
+        question: "Who said this quote: 'Ok everyone, remember to breathe because breathing is going to help you live ok? Breathing is going to help you live '?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 22",
         audio: "sounds/episode22x5.mp3"
@@ -969,16 +969,100 @@ const questions = [
     {
         question: "Who said this quote: 'Time well wasted is not wasted at all '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 33",
+        source: "Cox n Crendor Podcast Episode 32",
         audio: "sounds/episode32x3.mp3"
     },
     {
         question: "Who said this quote: 'We should kickstart a Death Star '?",
         correctAnswer: "Jesse",
-        source: "Cox n Crendor Podcast Episode 33",
+        source: "Cox n Crendor Podcast Episode 32",
         audio: "sounds/episode32x2.mp3"
     },
     {
+        question: "Who said this quote: 'The entire time I was baning Oprah in the body of like a little white girl '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 33",
+        audio: "sounds/episode33x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'Her vajayjay is be paining '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 33",
+        audio: "sounds/episode33x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'Screw you! go back to China you communist '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 33",
+        audio: "sounds/episode33x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'This is nuts but now that its Japan it seems less nuts '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 34",
+        audio: "sounds/episode34x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'America why are we so much better than the rest of the world '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 34",
+        audio: "sounds/episode34x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'We can only summon Ditka with polish sausage '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 34",
+        audio: "sounds/episode34x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'Im willing to sacrifice half of my face for sexy sexy dreams '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 34",
+        audio: "sounds/episode34x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'I wanna get a woman in like a shower and just be like \"yeah girl we about to get freaky\" and just spray her down with beer and when shes like \"why did you do that\" and im like \"it helps your hair\" '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 34",
+        audio: "sounds/episode34x5.mp3"
+    },
+    {
+        question: "Who said this quote: 'We can all sit down at the table of brotherhood and work out all of our problems with just a bunch of day old pizzas  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 35",
+        audio: "sounds/episode35x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'Look if we dont have a podcast on monday it because the Yakuza got me '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 35",
+        audio: "sounds/episode35x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'Well if it was cow rectum it would be cowlamari  '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 35",
+        audio: "sounds/episode35x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'If you've eaten hotdogs you've eaten the ass of some kind of animal '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 35",
+        audio: "sounds/episode35x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 3",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 3",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 3",
@@ -1002,7 +1086,6 @@ const questions = [
         source: "Cox n Crendor Podcast Episode 3",
         audio: "sounds/episode1x1.mp3"
     },
-
 
 
 
