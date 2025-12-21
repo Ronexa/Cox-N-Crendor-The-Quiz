@@ -1051,10 +1051,58 @@ const questions = [
         audio: "sounds/episode35x4.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'Look im just saying i want a really nice ass  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 36",
+        audio: "sounds/episode36x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'Do you know that Abraham Lincoln was Jewish? Because he was shot in the temple '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 3",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 36",
+        audio: "sounds/episode36x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'Please snow and cave in on me i do not wish to awake '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 36",
+        audio: "sounds/episode36x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'Gold is space chocolate '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 36",
+        audio: "sounds/episode36x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'Look im really hard up and this like 15 year old girl is into me so look you know what this is a low point in my life '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 36",
+        audio: "sounds/episode36x5.mp3"
+    },
+    {
+        question: "Who said this quote: 'If you're gonna bang animals at least have some taste some high standards  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 37",
+        audio: "sounds/episode37x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'Well i got nowhere else to go now but a donkey '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 37",
+        audio: "sounds/episode37x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'Would a guy in Florida try to bang a cheese fire '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 37",
+        audio: "sounds/episode37x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'Its like if you got a gate and then your gate gets really weak people gonna invade your city but if you got a strong gate people arent gonna invade your city but people arent gonna just appear in your city randomly if your gate is weak '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 37",
+        audio: "sounds/episode37x4.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
