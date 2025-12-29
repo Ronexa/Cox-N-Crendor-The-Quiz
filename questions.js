@@ -1105,6 +1105,84 @@ const questions = [
         audio: "sounds/episode37x4.mp3"
     },
     {
+        question: "Who said this quote: 'I sense something a little bit more odd than a rampaging masturbator '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 38",
+        audio: "sounds/episode38x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'Why he wasn't like face first in vagina i don't know but whatever  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 38",
+        audio: "sounds/episode38x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'David Lynch you're a masterful creator of nonsense '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 38",
+        audio: "sounds/episode38x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'After yesterday I have a feeling some people wanna bang raccoons '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 38",
+        audio: "sounds/episode38x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'I'm a catty bitch holy crap '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 38",
+        audio: "sounds/episode38x5.mp3"
+    },
+    {
+        question: "Who said this quote: 'My butt is oozing! \"yeah toughen up we all got a little butt ooze now and again\" '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 39",
+        audio: "sounds/episode39x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I gave you the butt injections because i knew they was good for you, you just didn't know how to handle it '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 39",
+        audio: "sounds/episode39x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'If you're going to one of those sites like i'm looking for a sugar daddy and you're like \"but im not a whore\" sweetheart you are '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 39",
+        audio: "sounds/episode39x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 3",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 3",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 3",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 3",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 3",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 3",
