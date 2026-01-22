@@ -1153,63 +1153,135 @@ const questions = [
         audio: "sounds/episode39x3.mp3"
     },
     {
+        question: "Who said this quote: 'I like it when my girls eyes glow the more she looks like Satan the better '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 39",
+        audio: "sounds/episode39x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'Clown fetish is a real thing dont offend people '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 39",
+        audio: "sounds/episode39x5.mp3"
+    },
+    {
+        question: "Who said this quote: 'The burrito isn't made of like velociraptor '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 40",
+        audio: "sounds/episode40x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I don't know how we got off on raptors '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 40",
+        audio: "sounds/episode40x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'And thats why i have to like go outside and like pick off all the women that get attracted to me like magnets everyday   '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 40",
+        audio: "sounds/episode40x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'If you bring a veggie tray to a party you're a giant douchebag '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 40",
+        audio: "sounds/episode40x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'In the depression we would've happy with a vegetable tray '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 40",
+        audio: "sounds/episode40x5.mp3"
+    },
+    {
+        question: "Who said this quote: 'The PH scale is a very interesting scale that you should not make fun of '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 41",
+        audio: "sounds/episode41x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'I'm not a supermodel, although if I was I would date myself because if would be gorgeous '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 40",
+        audio: "sounds/episode41x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'We're trying to save kids lives not get them into porn '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 41",
+        audio: "sounds/episode41x3.mp3"
+    },
+    {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 3",
+        source: "Cox n Crendor Podcast Episode 4",
         audio: "sounds/episode1x1.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 3",
+        source: "Cox n Crendor Podcast Episode 4",
         audio: "sounds/episode1x1.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 3",
+        source: "Cox n Crendor Podcast Episode 4",
         audio: "sounds/episode1x1.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 3",
+        source: "Cox n Crendor Podcast Episode 4",
         audio: "sounds/episode1x1.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 3",
+        source: "Cox n Crendor Podcast Episode 4",
         audio: "sounds/episode1x1.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 3",
+        source: "Cox n Crendor Podcast Episode 4",
         audio: "sounds/episode1x1.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 3",
+        source: "Cox n Crendor Podcast Episode 4",
         audio: "sounds/episode1x1.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 3",
+        source: "Cox n Crendor Podcast Episode 4",
         audio: "sounds/episode1x1.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 3",
+        source: "Cox n Crendor Podcast Episode 4",
         audio: "sounds/episode1x1.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 3",
+        source: "Cox n Crendor Podcast Episode 4",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 4",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 4",
         audio: "sounds/episode1x1.mp3"
     },
 
