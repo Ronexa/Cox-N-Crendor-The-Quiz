@@ -979,7 +979,7 @@ const questions = [
         audio: "sounds/episode32x2.mp3"
     },
     {
-        question: "Who said this quote: 'The entire time I was baning Oprah in the body of like a little white girl '?",
+        question: "Who said this quote: 'The entire time I was banging Oprah in the body of like a little white girl '?",
         correctAnswer: "Jesse",
         source: "Cox n Crendor Podcast Episode 33",
         audio: "sounds/episode33x1.mp3"
@@ -1279,16 +1279,16 @@ const questions = [
         audio: "sounds/episode44x2.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 4",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'We had a good run world but you are dumb as shit '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 45",
+        audio: "sounds/episode45x1.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'RG4 does not need injections, RG4 just jects  '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 4",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 45",
+        audio: "sounds/episode45x2.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
