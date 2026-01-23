@@ -1213,10 +1213,70 @@ const questions = [
         audio: "sounds/episode41x3.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'We are so smart about sports '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 4",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 42",
+        audio: "sounds/episode42x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'Find the Cookie Monster and destroy him '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 42",
+        audio: "sounds/episode42x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'Listen, I've gone to Ikea just to eat their food '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 42",
+        audio: "sounds/episode42x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'Thank you old asian man, because I want garlic bread '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 42",
+        audio: "sounds/episode42x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'And I've been told I'm an idiot and my nose has never bled so it seems right to me '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 42",
+        audio: "sounds/episode42x5.mp3"
+    },
+    {
+        question: "Who said this quote: 'India and Florida are just about the same thing except in India theres a lot more doctors and scientists '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 42",
+        audio: "sounds/episode42x6.mp3"
+    },
+    {
+        question: "Who said this quote: 'Krümelmonster you can steal my cookies any day '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 43",
+        audio: "sounds/episode43x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'This podcast has become you just torturing me '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 43",
+        audio: "sounds/episode43x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'When you belive in yourself, yourself is what you belive in  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 43",
+        audio: "sounds/episode43x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'Aloap is robot for rise '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 44",
+        audio: "sounds/episode44x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'Because he came out of my incredibly nice smelling vagaina '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 44",
+        audio: "sounds/episode44x2.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
@@ -1284,9 +1344,50 @@ const questions = [
         source: "Cox n Crendor Podcast Episode 4",
         audio: "sounds/episode1x1.mp3"
     },
-
-
-
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 4",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 4",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 4",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 4",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 4",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 4",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 4",
+        audio: "sounds/episode1x1.mp3"
+    },
+    
+    
 
 
 
