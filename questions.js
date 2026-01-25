@@ -1351,28 +1351,28 @@ const questions = [
         audio: "sounds/episode46x10.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 4 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Damn it Ben you're a quarterback you should be out there sexually harrasing women, what's the matter with you '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 47 (2013)",
+        audio: "sounds/episode47x1.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 4 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'The hottest guy in the world at some point has been rejected most likely by Taylor Swift '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 47 (2013)",
+        audio: "sounds/episode47x2.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'What I would do is I would stand up and walk over to the other human beign and I would tell them \"greetings, I really enjoy they way your body appears perceptually to me, and I would like to get to know the personality within that body that I belive to be there. And if you would grant me the opportunity to allow this to happen I'd be quite grateful\" '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 4 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 47 (2013)",
+        audio: "sounds/episode47x3.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 4 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Be the white knight don't be the squire '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 47 (2013)",
+        audio: "sounds/episode47x4.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
