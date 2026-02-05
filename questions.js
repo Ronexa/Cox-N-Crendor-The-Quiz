@@ -1375,27 +1375,213 @@ const questions = [
         audio: "sounds/episode47x4.mp3"
     },
     {
+        question: "Who said this quote: 'Matty is das girl name '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 48 (2013)",
+        audio: "sounds/episode48x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'Yo I'm Mustard M. Mustard '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 48 (2013)",
+        audio: "sounds/episode48x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'Who names their kid Whore '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 48 (2013)",
+        audio: "sounds/episode48x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'When I get my own island I'm gonna have laws there and the first law is you can only name your kid two things if it's a boy you can name him John and if it's a gir you can name her Rebecca   '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 48 (2013)",
+        audio: "sounds/episode48x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'Becoming feeble sounds horrible, becoming old sounds wonderful '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 48 (2013)",
+        audio: "sounds/episode48x5.mp3"
+    },
+    {
+        question: "Who said this quote: 'I feel like what you need is to go on a quest to find the lost grail and choose the wrong one you will age very quickly '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 48 (2013)",
+        audio: "sounds/episode48x6.mp3"
+    },
+    {
+        question: "Who said this quote: 'What do I have to do to get your meat '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 49 (2013)",
+        audio: "sounds/episode49x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'Son of a bitch these potheads I swear to God every damn day I'm back in this stupid ass neighborhood I swear to God one of these days I'm going to take my club and beat the shit out of someone    '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 49 (2013)",
+        audio: "sounds/episode49x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'I wanna murder Hugh Jackman and wear his skin '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 49 (2013)",
+        audio: "sounds/episode49x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'I'll take the hair of both you and Hugh Jackman and combine you into the perfect SpiritHood  '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 49 (2013)",
+        audio: "sounds/episode49x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'DAMN kid take the fries you asshole '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 50 (2013)",
+        audio: "sounds/episode50x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'If you're an Asian woman you're either 12 or 40 you look the exact same   '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 50 (2013)",
+        audio: "sounds/episode50x2.mp3"
+    },
+    {
+        question: "Who said this quote: 'I would love to be an Asian woman I'm letting you know right now I would live forever '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 50 (2013)",
+        audio: "sounds/episode50x3.mp3"
+    },
+    {
+        question: "Who said this quote: 'Look we need women to tell us about your butts, is what we're saying, if you wanna write in and descirbe your butts to us and if you have any pictures, any evidence to back this up we would gladly accept it  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 50 (2013)",
+        audio: "sounds/episode50x4.mp3"
+    },
+    {
+        question: "Who said this quote: 'Look ladies if you want flying cars I need to know how you keep your butts up okay? '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 50 (2013)",
+        audio: "sounds/episode50x5.mp3"
+    },
+    {
+        question: "Who said this quote: 'I robbed that liquor store for 5 dollars '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 50 (2013)",
+        audio: "sounds/episode50x6.mp3"
+    },
+    {
+        question: "Who said this quote: 'Weather Channel you suck you used to be cool '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 50 (2013)",
+        audio: "sounds/episode50x7.mp3"
+    },
+    {
+        question: "Who said this quote: 'I need to know what the weather is going to be like for the police chase later '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 50 (2013)",
+        audio: "sounds/episode50x8.mp3"
+    },
+    {
+        question: "Who said this quote: 'The doctor said that I got a piece of polish sausage lodged in my arteries '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 50 (2013)",
+        audio: "sounds/episode50x9.mp3"
+    },
+    {
+        question: "Who said this quote: 'You know what Bill Gates I don't hate you, you're a good guy '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 50 (2013)",
+        audio: "sounds/episode50x10.mp3"
+    },
+    {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 4 (2013)",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
         audio: "sounds/episode1x1.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 4 (2013)",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
         audio: "sounds/episode1x1.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 4 (2013)",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
         audio: "sounds/episode1x1.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 4 (2013)",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+    {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
         audio: "sounds/episode1x1.mp3"
     },
     
