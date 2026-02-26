@@ -1495,22 +1495,22 @@ const questions = [
         audio: "sounds/episode50x10.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'Today we're gonna talk about why you ain't fat and why you should be proud of yourself  '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 52 (2013)",
+        audio: "sounds/episode52x1.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'I'M A BIG FAT BITCH '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 52 (2013)",
+        audio: "sounds/episode52x2.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Bacon is actually pretty good for you, that's because the pig is the Gods most favorite animal '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 52 (2013)",
+        audio: "sounds/episode52x3.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
