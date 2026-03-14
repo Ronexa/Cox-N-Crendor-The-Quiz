@@ -1531,59 +1531,180 @@ const questions = [
         audio: "sounds/episode53x3.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'So it looks like he has a giant boner and it's the funniest thing I've ever seen in my life '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 54 (2013)",
+        audio: "sounds/episode54x1.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Shut it wolfs, get me a beer '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 54 (2013)",
+        audio: "sounds/episode54x2.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'All that means that in the future I can have brain powers '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 54 (2013)",
+        audio: "sounds/episode54x3.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'I'm implying that in the future I wanna be able to bang my car '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 54 (2013)",
+        audio: "sounds/episode54x4.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Look, I will forgoe owning robot sex slave if I can have a holodeck '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 54 (2013)",
+        audio: "sounds/episode54x5.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'YOU NEED TO SUCK SOME DICKS '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 55 (2013)",
+        audio: "sounds/episode55x1.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Look you wanna get with all this? you gotta need to pay 4 dollas  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 55 (2013)",
+        audio: "sounds/episode55x2.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Look Rebecca you're interesting but not as interesting as the possibility of bacon on a hamburger at Mcdonalds  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 55 (2013)",
+        audio: "sounds/episode55x3.mp3"
     },
     {
+        question: "Who said this quote: 'And thats a lesson for life: theres alwas going to be someone that says you're bad at something and they're most likely foreign  '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 56 (2013)",
+        audio: "sounds/episode56x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'It is christmas for dogs every 17 years, some dogs don't get to experience it '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 56 (2013)",
+        audio: "sounds/episode56x2.mp3"
+    },
+        {
+        question: "Who said this quote: 'I know you propably think it's really awesome that your brother has four young girls held hostage, but it's not a good thing '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 57 (2013)",
+        audio: "sounds/episode57x1.mp3"
+    },
+        {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 5 (2013)",
         audio: "sounds/episode1x1.mp3"
     },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        audio: "sounds/episode1x1.mp3"
+    },
+
     
     
 
