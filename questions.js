@@ -1513,22 +1513,22 @@ const questions = [
         audio: "sounds/episode52x3.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'I don't know why making out with women makes me sick'?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 53 (2013)",
+        audio: "sounds/episode53x1.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Shut up, if you're not gonna bang me I don't wanna hear what you have to say  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 53 (2013)",
+        audio: "sounds/episode53x2.mp3"
     },
     {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Drunk girls say stupid stuff sometimes, drunk guys say stupid stuff. I'm ok with that '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 53 (2013)",
+        audio: "sounds/episode53x3.mp3"
     },
     {
         question: "Who said this quote: 'kysymys '?",
