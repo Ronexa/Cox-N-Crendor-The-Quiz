@@ -1597,34 +1597,34 @@ const questions = [
         audio: "sounds/episode57x1.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Demon come out and play didgeridubstep way '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 58 (2013)",
+        audio: "sounds/episode58x1.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'That's worth it though, I think I might invest in a 260$ didgeridoo made from eucalyptus leaves '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 58 (2013)",
+        audio: "sounds/episode58x2.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Didgeridoos aren't about knowing what your're doing it's about blowing, and if there is one thing I do is blow '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 58 (2013)",
+        audio: "sounds/episode58x3.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'The pollen carries the allergies and they use the springs to spring into action and they fly into your noses and give you the allergies and then get out of there  '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 58 (2013)",
+        audio: "sounds/episode58x4.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Cheese is like God juice '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 58 (2013)",
+        audio: "sounds/episode58x5.mp3"
     },
         {
         question: "Who said this quote: 'kysymys '?",
