@@ -1627,19 +1627,19 @@ const questions = [
         audio: "sounds/episode58x5.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'Anything I learned about America is that when things get old we stop caring about them '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 59 (2013)",
+        audio: "sounds/episode59x1.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Yale is the Hogwarts of a America '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 59 (2013)",
+        audio: "sounds/episode59x2.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'kysymys '?", /* 60 ei ollu quote, 61 on seuraava */
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 5 (2013)",
         audio: "sounds/episode1x1.mp3"
