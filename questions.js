@@ -1639,69 +1639,69 @@ const questions = [
         audio: "sounds/episode59x2.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?", /* 60 ei ollu quote, 61 on seuraava */
+        question: "Who said this quote: 'Where do you young asian tweens go at midnight in LA '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 61 (2014)",
+        audio: "sounds/episode61x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'I've been drinking green tea since about 17 years old and I still look 17 '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        source: "Cox n Crendor Podcast Episode 61 (2014)",
+        audio: "sounds/episode61x2.mp3"
+    },
+        {
+        question: "Who said this quote: 'The Cheesecake Factory is the place you go where you want everyone to find something to eat but no one to be happy  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 61 (2014)",
+        audio: "sounds/episode61x3.mp3"
+    },
+        {
+        question: "Who said this quote: 'In the Cheesecake Factory did you know all the decorations look like the Eye of Sauron '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 61 (2014)",
+        audio: "sounds/episode61x4.mp3"
+    },
+        {
+        question: "Who said this quote: 'We wasted an entire podcast talking about Star Wars like two giant fucking nerds '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 61 (2014)",
+        audio: "sounds/episode61x5.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
         audio: "sounds/episode1x1.mp3"
     },
         {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
         audio: "sounds/episode1x1.mp3"
     },
         {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
         audio: "sounds/episode1x1.mp3"
     },
         {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
         audio: "sounds/episode1x1.mp3"
     },
         {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
         audio: "sounds/episode1x1.mp3"
     },
         {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
-    },
-        {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
-    },
-        {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
-    },
-        {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
-    },
-        {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
-        audio: "sounds/episode1x1.mp3"
-    },
-        {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2013)",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
         audio: "sounds/episode1x1.mp3"
     },
 
