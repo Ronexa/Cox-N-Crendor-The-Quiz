@@ -1669,10 +1669,64 @@ const questions = [
         audio: "sounds/episode61x5.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'Come visit my website: XXX donkey dingdongs '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 62 (2014)",
+        audio: "sounds/episode62x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'You keep moving, you keep moving woof woof '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 62 (2014)",
+        audio: "sounds/episode62x2.mp3"
+    },
+        {
+        question: "Who said this quote: 'I don't think you know how excited I would be to get to the mountains and see a Starbucks and a KFC and a McDonald's '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 62 (2014)",
+        audio: "sounds/episode62x3.mp3"
+    },
+        {
+        question: "Who said this quote: 'So if you go to Peru eat the turd potatoes '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 62 (2014)",
+        audio: "sounds/episode62x4.mp3"
+    },
+        {
+        question: "Who said this quote: 'Oh that must be pork because theres a pig head there, oh that must be a lama cos theres lamas heads there '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 62 (2014)",
+        audio: "sounds/episode62x5.mp3"
+    },
+        {
+        question: "Who said this quote: 'It's a lot nicer because theres the changing seasons and that means that the homeless people get killed off in the winter '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 63 (2014)",
+        audio: "sounds/episode63x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'Kids everywhere, kids walking around showing off their bikinis I don't got time for that, stop beign too young for me to hit on you '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 63 (2014)",
+        audio: "sounds/episode63x2.mp3"
+    },
+        {
+        question: "Who said this quote: 'What are they gonna do? build a kid party? '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 63 (2014)",
+        audio: "sounds/episode63x3.mp3"
+    },
+        {
+        question: "Who said this quote: 'Damn girl I got the dressing for your salad '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 63 (2014)",
+        audio: "sounds/episode63x4.mp3"
+    },
+        {
+        question: "Who said this quote: 'Look, this lady she is hard up on food maybe I can get a BJ for a salad '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 63 (2014)",
+        audio: "sounds/episode63x5.mp3"
     },
         {
         question: "Who said this quote: 'kysymys '?",
@@ -1704,6 +1758,20 @@ const questions = [
         source: "Cox n Crendor Podcast Episode 5 (2014)",
         audio: "sounds/episode1x1.mp3"
     },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
+        audio: "sounds/episode1x1.mp3"
+    },
+
+    
 
     
     
