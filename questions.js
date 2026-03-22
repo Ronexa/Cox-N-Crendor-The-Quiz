@@ -1729,6 +1729,120 @@ const questions = [
         audio: "sounds/episode63x5.mp3"
     },
         {
+        question: "Who said this quote: 'The only kind of manueuvre I use when I fertilize my garden is man manueuvre '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 64 (2014)",
+        audio: "sounds/episode64x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'You wanna go to the place where girls rub bubbles on you? I'd be like \"yeap let's go\" we walk in we get bubbles on us and we walk out. I'm telling you we'd have a good time '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 64 (2014)",
+        audio: "sounds/episode64x2.mp3"
+    },
+        {
+        question: "Who said this quote: 'I don't wanna look at France it's just a bunch of people looking back up at you at the tower '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 64 (2014)",
+        audio: "sounds/episode64x3.mp3"
+    },
+        {
+        question: "Who said this quote: 'So Cleveland you're a bunch of whores is what I'm saying '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 64 (2014)",
+        audio: "sounds/episode64x4.mp3"
+    },
+        {
+        question: "Who said this quote: 'And then you land and it's just like \"hey eskimo how about you get a job\"  '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 65 (2014)",
+        audio: "sounds/episode65x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'How about step 1. when you arrive in America, get out of the way '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 65 (2014)",
+        audio: "sounds/episode65x2.mp3"
+    },
+        {
+        question: "Who said this quote: 'If they wanted us to keep out of the backseat put a crocodile back there '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 65 (2014)",
+        audio: "sounds/episode65x3.mp3"
+    },
+        {
+        question: "Who said this quote: 'I wanna go to a maid cafe and give like the women there tips and be like \"you now are mine mine\" like \"you've bring dishonor to my family\" \"that right I have you must work in my sex mines\" '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 65 (2014)",
+        audio: "sounds/episode65x4.mp3"
+    },
+        {
+        question: "Who said this quote: 'It's definetly not boobs and it's definitely not butt it could be the vajayjay but unless you've got a venus flytrap vagina I don't know what hell they're talking about '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 65 (2014)",
+        audio: "sounds/episode65x5.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 5 (2014)",
