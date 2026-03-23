@@ -1783,82 +1783,82 @@ const questions = [
         audio: "sounds/episode65x5.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'When you become an American we can complain that you're now an American that wasn't born in America'?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 66 (2014)",
+        audio: "sounds/episode66x1.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'All movies should have songs that depict whats happening in the scene to let the audience know what they should feel  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 66 (2014)",
+        audio: "sounds/episode66x2.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Driving down the road that's what I do, going real fast gonna see my boo, honey booboo   '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 66 (2014)",
+        audio: "sounds/episode66x3.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Watch out! there's a dinosaur, he's gonna eat your face off Ian Malcolm  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 66 (2014)",
+        audio: "sounds/episode66x4.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Who put the curse on a dog girl '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 66 (2014)",
+        audio: "sounds/episode66x5.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'It's always the Pirates of the Caribbean ride, they'll just put curses on ya, you gotta marry dogs  '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 66 (2014)",
+        audio: "sounds/episode66x6.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'Woof woof motherfucker '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 66 (2014)",
+        audio: "sounds/episode66x7.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'I need a woman who is willing to use her feminininines to get me free drinks '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 67 (2014)",
+        audio: "sounds/episode67x1.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'If you need to flirt with the bartender to get me a free beer, that hot '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 67 (2014)",
+        audio: "sounds/episode67x2.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'I'm not even wearing a real shirt right now, it's made of aluminum '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 67 (2014)",
+        audio: "sounds/episode67x3.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'Mmmmmm delicious petrolium oil '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 67 (2014)",
+        audio: "sounds/episode67x4.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Internet celebrities Jesse Cox and Eric Crendor were there and he did not give us the proper internet greeting of a handshake and butt slap  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 67 (2014)",
+        audio: "sounds/episode67x5.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'You know what Batman is too good for you, settle for Jesse Cox '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 67 (2014)",
+        audio: "sounds/episode67x6.mp3"
     },
         {
         question: "Who said this quote: 'kysymys '?",
