@@ -1861,6 +1861,108 @@ const questions = [
         audio: "sounds/episode67x6.mp3"
     },
         {
+        question: "Who said this quote: 'Obviously we're of superior minds to all people '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 68 (2014)",
+        audio: "sounds/episode68x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'I fundamentally believe a woman in her right mind went out and had a third boob attached in between her other two boobs  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 69 (2014)",
+        audio: "sounds/episode69x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'How would you motorboat three boobs '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 69 (2014)",
+        audio: "sounds/episode69x2.mp3"
+    },
+        {
+        question: "Who said this quote: 'If you're a podcastoholic we're your Jim Beam '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 70 (2014)",
+        audio: "sounds/episode70x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'Syphilis we just inject it into people '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 70 (2014)",
+        audio: "sounds/episode70x2.mp3"
+    },
+        {
+        question: "Who said this quote: 'Come to California and get your syphilis injection  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 70 (2014)",
+        audio: "sounds/episode70x3.mp3"
+    },
+        {
+        question: "Who said this quote: 'That's how Wing Stop gets their wings, they mine the wings out of the ground '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 70 (2014)",
+        audio: "sounds/episode70x4.mp3"
+    },
+        {
+        question: "Who said this quote: 'Stop looking normal pornstars '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 70 (2014)",
+        audio: "sounds/episode70x5.mp3"
+    },
+        {
+        question: "Who said this quote: 'Get whatever that robot surgery is that made that woman look like a cat and but you just look like you're in porn all the time  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 70 (2014)",
+        audio: "sounds/episode70x6.mp3"
+    },
+        {
+        question: "Who said this quote: 'Don't judge me by the size of my Cox, I'm still Jesse from the blocks '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 70 (2014)",
+        audio: "sounds/episode70x7.mp3"
+    },
+        {
+        question: "Who said this quote: 'I think I would take a fabulous mugshot '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 70 (2014)",
+        audio: "sounds/episode70x8.mp3"
+    },
+        {
+        question: "Who said this quote: 'As a beutiful human beign you're automatically horrible '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 70 (2014)",
+        audio: "sounds/episode70x9.mp3"
+    },
+        {
+        question: "Who said this quote: 'Last time I ate before I went to bed I had a dream about a guy running around ripping peoples faces off '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 71 (2014)",
+        audio: "sounds/episode71x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'What does it mean when naked Britney Spears with the head of an alien abducts me and takes me into the security locker area of the mall   '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 71 (2014)",
+        audio: "sounds/episode71x2.mp3"
+    },
+        {
+        question: "Who said this quote: 'Yeah no God says that you should sleep with me and until he says otherwise I guess we should do it, praise Jesus  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 71 (2014)",
+        audio: "sounds/episode71x3.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 5 (2014)",
@@ -1884,6 +1986,13 @@ const questions = [
         source: "Cox n Crendor Podcast Episode 5 (2014)",
         audio: "sounds/episode1x1.mp3"
     },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
+        audio: "sounds/episode1x1.mp3"
+    },
+    
 
     
 
