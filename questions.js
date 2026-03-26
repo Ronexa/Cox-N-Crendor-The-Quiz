@@ -1951,6 +1951,90 @@ const questions = [
         audio: "sounds/episode71x3.mp3"
     },
         {
+        question: "Who said this quote: 'Maybe if they cant figure the bread out they should take the bread to psychology to get to know it better '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 72 (2014)",
+        audio: "sounds/episode72x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'You know what if it's syphilis that I'm eating, syphilis tastes delicious '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 72 (2014)",
+        audio: "sounds/episode72x2.mp3"
+    },
+        {
+        question: "Who said this quote: 'Cookie butter is like a woman, cookie butter is like you need to get her nice and hot to get her ready, then you spread her and then you go to town '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 72 (2014)",
+        audio: "sounds/episode72x3.mp3"
+    },
+        {
+        question: "Who said this quote: 'Sorry religion football is in charge now '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 72 (2014)",
+        audio: "sounds/episode72x4.mp3"
+    },
+        {
+        question: "Who said this quote: 'Why not take celery and dip it in some glaze, there you go: a Celnut '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 73 (2014)",
+        audio: "sounds/episode73x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'I wanna know what idiot was like the genius that came up with cookie butter  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 73 (2014)",
+        audio: "sounds/episode73x2.mp3"
+    },
+        {
+        question: "Who said this quote: 'In Europe people like European food, why is that '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 73 (2014)",
+        audio: "sounds/episode73x3.mp3"
+    },
+        {
+        question: "Who said this quote: 'Nerds invent time travel and we'll get laid together '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 73 (2014)",
+        audio: "sounds/episode73x4.mp3"
+    },
+        {
+        question: "Who said this quote: 'Oh my pancreas sure hurts today '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 73 (2014)",
+        audio: "sounds/episode73x5.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
+        question: "Who said this quote: 'kysymys '?",
+        correctAnswer: "Crendor",
+        source: "Cox n Crendor Podcast Episode 5 (2014)",
+        audio: "sounds/episode1x1.mp3"
+    },
+        {
         question: "Who said this quote: 'kysymys '?",
         correctAnswer: "Crendor",
         source: "Cox n Crendor Podcast Episode 5 (2014)",
