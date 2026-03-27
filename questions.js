@@ -2005,64 +2005,64 @@ const questions = [
         audio: "sounds/episode73x5.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'This is the show for me, I don't think I have ever seen a show more for me unless it was like Ikea television '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 74 (2014)",
+        audio: "sounds/episode74x1.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'I don't need the details of them needling his dick '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 74 (2014)",
+        audio: "sounds/episode74x2.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'If a scorpion stings me in the dick I'm just gonna count myself as dead cos how does a scropion get there  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 74 (2014)",
+        audio: "sounds/episode74x3.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'I'd rather have to admit that I'm old and can never get hard again than risk having my dick explode off  '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 74 (2014)",
+        audio: "sounds/episode74x4.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Dude now I'm worried I'm gonna get poop butt '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 75 (2014)",
+        audio: "sounds/episode75x1.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'Well I don't have that problem my poo never looks white '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 75 (2014)",
+        audio: "sounds/episode75x2.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'What if we're on drugs right now and we don't know, what if we're born into drugs, what if when we dream it's reality  '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 75 (2014)",
+        audio: "sounds/episode75x3.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'What if we are time travelers and we forgot, we had to wipe our memories clean, and we came back and we changed the world so that James Polk won the presidency and we could talk about him on this podcast  '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 75 (2014)",
+        audio: "sounds/episode75x4.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
-        correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        question: "Who said this quote: 'We are time travelers, we travel through time into the future '?",
+        correctAnswer: "Jesse",
+        source: "Cox n Crendor Podcast Episode 75 (2014)",
+        audio: "sounds/episode75x5.mp3"
     },
         {
-        question: "Who said this quote: 'kysymys '?",
+        question: "Who said this quote: 'I don't like walking I want a bike, I don't like this bike it's slow I want a car, I don't like this car I want a jet, oh man now I got diseases from another country because I got there too fast on my jet this sucks   '?",
         correctAnswer: "Crendor",
-        source: "Cox n Crendor Podcast Episode 5 (2014)",
-        audio: "sounds/episode1x1.mp3"
+        source: "Cox n Crendor Podcast Episode 75 (2014)",
+        audio: "sounds/episode75x6.mp3"
     },
         {
         question: "Who said this quote: 'kysymys '?",
